@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7caeb2dc.css",
+    "main.js": "/portfolio/static/js/main.56e4e039.js",
+    "static/js/453.a9fbc792.chunk.js": "/portfolio/static/js/453.a9fbc792.chunk.js",
+    "static/media/gada.png": "/portfolio/static/media/gada.a9e1642f70184ca95a44.png",
+    "static/media/kavana.jpg": "/portfolio/static/media/kavana.2043d1f97a39f042152e.jpg",
+    "static/media/reservation-form.png": "/portfolio/static/media/reservation-form.832532681ceb32753760.png",
+    "static/media/Project4.jpg": "/portfolio/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/portfolio/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/Jokes Project.jpg": "/portfolio/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "static/media/chat.png": "/portfolio/static/media/chat.f30eb834f89856d1b0c6.png",
+    "index.html": "/portfolio/index.html",
+    "main.7caeb2dc.css.map": "/portfolio/static/css/main.7caeb2dc.css.map",
+    "main.56e4e039.js.map": "/portfolio/static/js/main.56e4e039.js.map",
+    "453.a9fbc792.chunk.js.map": "/portfolio/static/js/453.a9fbc792.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7caeb2dc.css",
+    "static/js/main.56e4e039.js"
+  ]
+}
